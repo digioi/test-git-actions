@@ -1,0 +1,11 @@
+{
+  "name": "test-git-actions",
+  "version": "1.0.0",
+  "description": "",\
+  "author": "Mike DiGioia<digioia.mike@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digioi/test-git-actions-/issues"
+  },
+  "homepage": "https://github.com/digioi/test-git-actions-#readme"
+}
