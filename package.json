@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "author": "Mike DiGioia<digioia.mike@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com/"
   },
