@@ -4,6 +4,9 @@
   "description": "",
   "author": "Mike DiGioia<digioia.mike@gmail.com>",
   "license": "ISC",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "bugs": {
     "url": "https://github.com/digioi/test-git-actions-/issues"
   },

@@ -1,3 +1,3 @@
-export const SomeJS = ()=>{
-  return "Some JS Stuff - UPdated"
+export const SomeJS = () => {
+  return "Some JS Stuff - Updated"
 }
